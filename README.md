@@ -1,6 +1,6 @@
 # simplest-git-cheat-sheet-on-planet-earth
 
-[<img src="https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif" width="100%">]
+<img src="https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif" width="100%">
 
 ### Description
 This is the simplest git cheat sheet ever, for absolute beginners. You're welcome, fellow newbie.
@@ -12,7 +12,7 @@ This is the simplest git cheat sheet ever, for absolute beginners. You're welcom
 - ls: List contents of a directory by using ls.
 - cat: Print ocu content of textfile.
 - pwd: Prints current directory path.
-- tab, baby: Because our memory is bad, we use ls. After ls reminds us of the name of the folder we are searching for, we want to cd into that folder. Because we are lazy, we write the first letter of that directory, then we tab. Yes, make tab your friend today. Your keyboard will thank you.
+- tab, baby: Because our memory is bad, we use ls. After ls reminds us of the name of the folder we are searching for, we want    to cd into that folder. Because we are lazy, we write the first letter of that directory, then we tab. Yes, make tab your friend today. Your keyboard will thank you.
 - mkdir: Create new directory.
 - touch: Create new file.
 - rm: Remove file (-r to remove directories)
