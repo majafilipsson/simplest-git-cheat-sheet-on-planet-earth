@@ -1,5 +1,7 @@
 # simplest-git-cheat-sheet-on-planet-earth
 
+[<img src="https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif" width="100%">]
+
 ### Description
 This is the simplest git cheat sheet ever, for absolute beginners. You're welcome, fellow newbie.
 
