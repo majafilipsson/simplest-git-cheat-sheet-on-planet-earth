@@ -16,7 +16,8 @@ This is the simplest git cheat sheet ever, for absolute beginners. You're welcom
 - `mkdir`: Create new directory.
 - `touch`: Create new file.
 - `rm`: Remove file (-r to remove directories)
-- `mv`: Move or rename file or folder. Needs source and target.
+- `mv`: Move or rename file or folder. Needs source and target. Example:
+      mv directory-being-moved destination/directory-being-moved/
 - `open`: Opens specified directory (EX. open index.html OR open . to open current directory)
 - `code`: Open up choosen file in VS Code.
 - `atom`: Open up choosen file in Atom.
