@@ -25,11 +25,12 @@ This is the simplest git cheat sheet ever, for absolute beginners. You're welcom
 
 ### How to git in terminal
 
+- `git pull`: **ALWAYS** do a git pull before you start your work for the day to make sure you are up to date with latest github changes (this way you won't have to memorize the git merge command 😉 )
+
 - `git clone`: Use git clone + url to clone a repository to your computer
 - `git status`: Check the status of a git repository on your computer using git status. This will tell you if there are uncommitted changes on your computer.
+- 'git diff': Let's you compare your changes to the last commit (very useful if you're working on those commit messages being meaningful 😉 )
 - `git add`: Add changes for commit using git add and preferably a . for simplicity (. means all changes will be included in the adding)
 - `git status`: Use git status again because it makes your anxious newbie brain feel safe upon seeing your changes staged for commit in wonderful, good-to-go green.
 - `git commit`: Commit changes. Remember to add a message, which should look like this: git commit -m "message goes here"
 - `git push`: Push your changes and voilà, you're all done.
-
-- `git pull`:
