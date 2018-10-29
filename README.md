@@ -23,6 +23,10 @@ This is the simplest git cheat sheet ever, for absolute beginners. You're welcom
 - `atom`: Open up choosen file in Atom.
 - `cp`: Copies a file or directory.
 
+### Access your terminal settings(Ubuntu)
+
+`~/.profile` or `~/.bash_profile`: Open in editor of your choice.
+
 
 ### How to git in terminal
 
