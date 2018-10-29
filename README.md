@@ -21,6 +21,11 @@ This is the simplest git cheat sheet ever, for absolute beginners. You're welcom
 - `open`: Opens specified directory (EX. open index.html OR open . to open current directory)
 - `code`: Open up choosen file in VS Code.
 - `atom`: Open up choosen file in Atom.
+- `cp`: Copies a file or directory.
+
+### Access your terminal settings(Ubuntu)
+
+`~/.profile` or `~/.bash_profile`: Open in editor of your choice.
 
 
 ### How to git in terminal
